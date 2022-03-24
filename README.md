@@ -8,7 +8,7 @@
 - 🧑‍💼 Estou procurando trabalho como desenvolvedor de aplicativos e com Business Analytics.
 - ⚡ Fatos sobre Mim: Toco bateria, tenho uma banda que quero voltar a tocar junto. Amo futebol. Adoro ir em shows e festivais de Rock, Punk e Metal
 
-- 🏋️‍ Minhas linguagens de programação:
+##🏋️‍ Minhas linguagens de programação:
 
 - Linguagem C - Intermediário (2012-2018)
 - Python - Intermediário (2015-)
