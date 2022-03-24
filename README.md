@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 
 <p align="center">
-  <img src="https://github.com/Marcos14Almeida/Marcos14Almeida/blob/main/davai_logo.png" width="200" title="hover text">
+  <img src="https://github.com/Marcos14Almeida/Marcos14Almeida/blob/main/davai_logo.png" width="200" title="Davai App">
 </p>
 
 
