@@ -9,7 +9,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![alt text](https://github.com/Marcos14Almeida/Marcos14Almeida/blob/main/davai_logo.png?raw=true)
+<p align="center">
+  <img src="https://github.com/Marcos14Almeida/Marcos14Almeida/blob/main/davai_logo.png" width="200" title="hover text">
+</p>
+
 
 Vamos conversar, mande um e-mail para:
 
