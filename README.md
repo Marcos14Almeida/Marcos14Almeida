@@ -10,7 +10,9 @@
 - ⚡ Fun fact: ...
 
 <p align="center">
+  <a href="https://www.qries.com/">
   <img src="https://github.com/Marcos14Almeida/Marcos14Almeida/blob/main/davai_logo.png" width="200" title="Davai App">
+  </a>
 </p>
 
 
