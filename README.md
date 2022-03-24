@@ -4,7 +4,7 @@
 - 🔭 Atualmente estou desenvolvendo o Davai App, porém ele fica em um repositório privado. Mas você pode baixar na PlayStore normalmente.
 - 🌱 Atualmente estou aprendendo a desenvolver aplicativos com Flutter, e a desenvolver algoritmos de Machine Learning com Python e R.
 - 💬 Meus tópicos de estudo recentemente tem sido Design Patterns e algoritmos de Regras de Associação como Apriori.
-- 👨‍🏫 Vou começar um MBA em Business Analytics em breve. Sou formado como Engenheiro Elétrico pela Unicamp desde 2021, sou formado como Técnico em Eletrônica desde 2014, e já estudei em Portugal, Lisboa, no Instituto Superior Técnico.
+- 👨‍🏫 Vou começar um MBA em Business Analytics em breve. Me formei em 2021 como Engenheiro Elétrico pela Unicamp , sou formado desde 2014 como Técnico em Eletrônica, e já fiz intercâmbio em Lisboa, Portugal, no Instituto Superior Técnico.
 - 🧑‍💼 Estou procurando trabalho como desenvolvedor de aplicativos e com Business Analytics.
 - 😅 Salvo meus arquivos localmente, então a maioria não fica disponível no Github.
 - ⚡ Fatos sobre Mim: Toco bateria, tenho uma banda que quero voltar a tocar junto. Adoro ir em shows e festivais de Rock, Punk e Metal. Jogo futebol e tênis. Aprendo russo falando todo dia com pessoas nativas.
