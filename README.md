@@ -31,3 +31,5 @@
 ### Ficou interessado? Vamos conversar, mande um e-mail para:
 
 📫marcos.10palmeida@gmail.com
+
+https://www.linkedin.com/in/marcos-a-05b048123/
