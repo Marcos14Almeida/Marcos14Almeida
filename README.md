@@ -6,7 +6,7 @@
 - 💬 Meus tópicos de estudo recentemente tem sido Design Patterns e algoritmos de Regras de Associação como Apriori.
 - 👨‍🏫 Vou começar um MBA em Business Analytics em breve. Sou formado como Engenheiro Elétrico pela Unicamp desde 2021, sou formado como Técnico em Eletrônica desde 2014, e já estudei em Portugal, Lisboa, no Instituto Superior Técnico.
 - 🧑‍💼 Estou procurando trabalho como desenvolvedor de aplicativos e com Business Analytics.
-- ⚡ Fatos sobre Mim: Toco bateria, tenho uma banda que quero voltar a tocar junto. Amo futebol. Adoro ir em shows e festivais de Rock, Punk e Metal
+- ⚡ Fatos sobre Mim: Toco bateria, tenho uma banda que quero voltar a tocar junto. Adoro ir em shows e festivais de Rock, Punk e Metal. Jogo futebol e tênis. Aprendo russo falando todo dia com pessoas nativas.
 
 ### 🏋️‍ Minhas linguagens de programação:
 
