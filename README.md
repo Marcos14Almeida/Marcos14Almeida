@@ -10,13 +10,13 @@
 
 - 🏋️‍ Minhas linguagens de programação:
 
--Linguagem C - Intermediário (2012-2018)
--Python - Intermediário (2015-)
--Dart(Flutter) - Intermediário (2021-)
--MATLAB - Intermediário (2015-)
--R - Básico (2019-)
--SQL - Básico (2019-)
--Java - Básico (2020-2021)
+- Linguagem C - Intermediário (2012-2018)
+- Python - Intermediário (2015-)
+- Dart(Flutter) - Intermediário (2021-)
+- MATLAB - Intermediário (2015-)
+- R - Básico (2019-)
+- SQL - Básico (2019-)
+- Java - Básico (2020-2021)
 
 <p align="center">
   <a href="https://www.davaiapp.com/">
