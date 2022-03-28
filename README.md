@@ -2,9 +2,9 @@
 
 
 - 🔭 Atualmente estou desenvolvendo o Davai App, porém ele fica em um repositório privado. Mas você pode baixar na PlayStore normalmente.
-- 🌱 Atualmente estou aprendendo a desenvolver aplicativos com Flutter, e a desenvolver algoritmos de Machine Learning com Python e R.
-- 👨‍🏫 Me formei em 2021 como Engenheiro Elétrico pela Unicamp , sou formado desde 2014 como Técnico em Eletrônica, e já fiz intercâmbio em Lisboa, Portugal, no Instituto Superior Técnico.
+- 🌱 Atualmente estou aprendendo a desenvolver aplicativos com Flutter e a desenvolver algoritmos de Machine Learning com Python e R.
 - 🧑‍💼 Estou procurando trabalho como desenvolvedor de aplicativos e/ou Business Analytics.
+- 👨‍🏫 Me formei em 2021 como Engenheiro Elétrico pela Unicamp , sou formado desde 2014 como Técnico em Eletrônica, e já fiz intercâmbio em Lisboa, Portugal, no Instituto Superior Técnico.
 - 😅 Salvo meus arquivos localmente, então a maioria não fica disponível no Github.
 - ⚡ Fatos sobre Mim: Toco bateria. Adoro ir em shows e festivais de Rock, Punk e Metal. Jogo futebol e tênis. Aprendo russo falando todo dia com pessoas nativas.
 
@@ -13,7 +13,7 @@
 - Linguagem C - Intermediário (2012-2018)
 - Python - Intermediário (2015-)
 - Dart(Flutter) - Intermediário (2021-)
-- MATLAB - Intermediário (2015-)
+- MATLAB - Intermediário (2015-2020)
 - R - Básico (2019-)
 - SQL - Básico (2019-)
 - Java - Básico (2020-2021)
