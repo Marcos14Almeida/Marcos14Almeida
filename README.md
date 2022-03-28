@@ -31,4 +31,6 @@
 
 📫marcos.10palmeida@gmail.com
 
+### LinkedIN
+
 https://www.linkedin.com/in/marcos-a-05b048123/
