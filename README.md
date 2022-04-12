@@ -6,7 +6,7 @@
 - 🧑‍💼 Estou procurando trabalho como desenvolvedor de aplicativos e/ou Business Analytics.
 - 👨‍🏫 Me formei em 2021 como Engenheiro Elétrico pela Unicamp , sou formado desde 2014 como Técnico em Eletrônica, e já fiz intercâmbio em Lisboa, Portugal, no Instituto Superior Técnico.
 - 😅 Salvo meus arquivos localmente, então a maioria não fica disponível no Github.
-- ⚡ Fatos sobre Mim: Toco bateria. Adoro ir em shows e festivais de Rock, Punk e Metal. Jogo futebol e tênis. Aprendo russo falando todo dia com pessoas nativas.
+- ⚡ Fatos sobre Mim: Toco bateria. Adoro ir em shows e festivais de Rock, Punk e Metal. Jogo futebol e tênis. Aprendo russo e francês todo dia falando com pessoas nativas.
 
 ### 🏋️‍ Minhas linguagens de programação:
 
