@@ -1,13 +1,13 @@
 ### Oi, eu sou Marcos 👋
 
 
-- 🔭 Atualmente estou fazendo mestrado de Inteligência Artificial aplicado a redes 5G na Unicamp.
+- 🔭 Atualmente estou fazendo mestrado de Inteligência Artificial aplicado a redes de fibras ópticas na Unicamp.
 - 👨‍🏫 Me formei em 2021 como Engenheiro Elétrico pela Unicamp, sou formado desde 2014 como Técnico em Eletrônica e em 2019 fiz intercâmbio em Lisboa, Portugal, no Instituto Superior Técnico.
 - 💰 Desenvolvi uma startup chamado Davai App, uma rede social de música, ele fica em um repositório privado, mas você pode baixar na PlayStore normalmente.
-- 🌱 Atualmente estou aprendendo sobre redes 5G e aprendendo a desenvolver algoritmos de Machine Learning com Python e R.
+- 🌱 Atualmente estou aprendendo a desenvolver algoritmos de Machine Learning com Python e R.
 - 🧑‍💼 Busco trabalhar com Machine Learning para solucionar problemas dos mais variados tipos.
 - 😅 Salvo meus arquivos localmente, então a maioria não fica disponível no Github.
-- ⚡ Fatos sobre Mim: Toco bateria. Adoro ir em shows e festivais de Rock, Punk e Metal. Jogo futebol e tênis. Aprendo russo e francês todo dia falando com pessoas nativas.
+- ⚡ Fatos sobre Mim: Toco bateria. Adoro ir em shows e festivais de Rock, Punk e Metal. Jogo futebol e tênis. Aprendo russo e italiano todo dia falando com pessoas nativas.
 - 📚 Último livro que eu li: Storytelling com dados
 
 ### 🏋️‍ Minhas linguagens de programação:
