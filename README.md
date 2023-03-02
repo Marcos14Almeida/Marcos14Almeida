@@ -27,9 +27,11 @@
 Jogo de simulação de futebol com dados reais de mais de 400 times, coletados de 3 sites diferentes e desenvolvido com Flutter. O jogo não esta disponível por conter logos e emblemas de marcas registradas o qual não tenho autoria.
  
  - **Deep Q-Learning Football Simulation**
+ - 
  Estou criando um simulador de futebol com essa ferramenta de Machine Learinng para simular uma partida de futebol, onde os jogadores que são circulos, aprendem sobre as regras sobre o jogo e interagem com o ambiente para marcarem gols e obterem o melhor resultado possível.
  
  - **Mestrado**: Improvement of Quality of Transmission in Fiber Networks with SGD
+ - 
  Uso do algoritmo de gradiente estocástico, para aproximar os parametros simulados de uma rede de fibra óptica(Digital Twin) de uma rede real.
 
 ### Conheça minha startup:
