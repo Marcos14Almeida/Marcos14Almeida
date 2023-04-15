@@ -4,6 +4,7 @@
 - 🔭 Atualmente estou fazendo mestrado de Inteligência Artificial aplicado a redes de fibras ópticas na Unicamp.
 - 👨‍🏫 Me formei em 2021 como Engenheiro Elétrico pela Unicamp, sou formado desde 2014 como Técnico em Eletrônica e em 2019 fiz intercâmbio em Lisboa, Portugal, no Instituto Superior Técnico.
 - 💰 Desenvolvi uma startup chamado Davai App, uma rede social de música, ele fica em um repositório privado, mas você pode baixar na PlayStore normalmente.
+- >https://play.google.com/store/apps/details?id=com.davai.davai_app
 - 🌱 Atualmente estou aprendendo a desenvolver algoritmos de Machine Learning com Python e R.
 - 🧑‍💼 Busco trabalhar com Machine Learning para solucionar problemas dos mais variados tipos.
 - 😅 Salvo meus arquivos localmente, então a maioria não fica disponível no Github.
