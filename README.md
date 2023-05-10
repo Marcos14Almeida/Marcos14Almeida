@@ -7,8 +7,6 @@
 - >https://play.google.com/store/apps/details?id=com.davai.davai_app
 - 🌱 Atualmente estou aprendendo a desenvolver algoritmos de Machine Learning com Python e R.
 - 🧑‍💼 Busco trabalhar com Machine Learning para solucionar problemas dos mais variados tipos.
-- 😅 Salvo meus arquivos localmente, então a maioria não fica disponível no Github.
-- ⚡ Fatos sobre Mim: Toco bateria. Adoro ir em shows e festivais de Rock, Punk, Metal e Emo. Amo futebol. Aprendo russo e italiano todo dia falando com pessoas nativas.
 - 📚 Último livro que eu li: Storytelling com dados
 
 ### 🏋️‍ Minhas linguagens de programação:
