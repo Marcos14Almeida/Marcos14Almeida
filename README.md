@@ -3,8 +3,13 @@
 
 - 🔭 Atualmente estou fazendo mestrado de Inteligência Artificial aplicado a redes de fibras ópticas na Unicamp.
 - 👨‍🏫 Me formei em 2021 como Engenheiro Elétrico pela Unicamp, sou formado desde 2014 como Técnico em Eletrônica e em 2019 fiz intercâmbio em Lisboa, Portugal, no Instituto Superior Técnico.
-- 💰 Desenvolvi uma startup chamado Davai App, uma rede social de música, ele fica em um repositório privado, mas você pode baixar na PlayStore normalmente.
+- 💰 Desenvolvi uma startup chamado Davai App, uma rede social de música. Fui o desenvolvedor e liderei o desenvovimento da UX/UI dessa rede social de música, para pessoas formarem bandas, amizades, irem em shows juntas e muito mais. Você pode baixar normalmente na PlayStore.
 - >https://play.google.com/store/apps/details?id=com.davai.davai_app
+<p align="center">
+  <a href="https://www.davaiapp.com/">
+  <img src="https://github.com/Marcos14Almeida/Marcos14Almeida/blob/main/davai_logo.png" width="200" title="Davai App">
+  </a>
+</p>
 - 🧑‍💼 Busco trabalhar com Machine Learning com Python e R para solucionar problemas dos mais variados tipos.
 - 📚 Último livro que eu li: Storytelling com dados
 
@@ -29,15 +34,6 @@ Jogo de simulação de futebol com dados reais de mais de 400 times, coletados d
  Uso do algoritmo de gradiente estocástico, para aproximar os parametros simulados de uma rede de fibra óptica(Digital Twin) de uma rede real.
  Faço parte do grupo Intrig: https://intrig.dca.fee.unicamp.br/
 
-### Conheça minha startup:
-
-* Desativada em 2022. Fui o desenvolvedor e liderei o desenvovimento da UX/UI dessa rede social de música, para pessoas formarem bandas, amizades, irem em shows juntas e muito mais.
-
-<p align="center">
-  <a href="https://www.davaiapp.com/">
-  <img src="https://github.com/Marcos14Almeida/Marcos14Almeida/blob/main/davai_logo.png" width="200" title="Davai App">
-  </a>
-</p>
 
 ### LinkTree com mais links
 
