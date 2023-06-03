@@ -32,7 +32,7 @@ Jogo de simulação de futebol com dados reais de mais de 400 times, coletados d
 
 ### Conheça minha startup:
 
-* Desativada em 2022. Fui o desenvolvedor e liderei o desenvovimento da UX/UI e na busca de potenciais clientes conheci alguns artistas influentes do cenário underground do rock brasileiro atual. Além disso participamos de alguns programas de aceleração de startups, mas cancelamos o projeto por falta de tempo e divergência de opiniões entre os fundadores.
+* Desativada em 2022. Fui o desenvolvedor e liderei o desenvovimento da UX/UI dessa rede social de música, para pessoas formarem bandas, amizades, irem em shows juntas e muito mais.
 
 <p align="center">
   <a href="https://www.davaiapp.com/">
