@@ -34,11 +34,11 @@ Jogo de simulação de futebol com dados reais de mais de 400 times, coletados d
  Uso do algoritmo de gradiente estocástico, para aproximar os parametros simulados de uma rede de fibra óptica(Digital Twin) de uma rede real.
  Faço parte do grupo Intrig: https://intrig.dca.fee.unicamp.br/
 
-🌐 ### Meu Website Pessoal
+### 🌐 Meu Website Pessoal
 
 https://github.com/Marcos14Almeida/mrcmarc
 
-❇ ### LinkTree com mais links
+### ❇ LinkTree com mais links
 
 https://linktr.ee/marcosmaso
 
@@ -46,6 +46,6 @@ https://linktr.ee/marcosmaso
 
 📫marcos.10palmeida@gmail.com
 
-🧑‍💼 ### Linkedin
+### 🧑‍ Linkedin
 
 https://www.linkedin.com/in/marcos-a-05b048123/
