@@ -10,8 +10,8 @@
   <img src="https://github.com/Marcos14Almeida/Marcos14Almeida/blob/main/davai_logo.png" width="200" title="Davai App">
   </a>
 </p>
-- 🧑‍💼 Busco trabalhar com Machine Learning com Python e R para solucionar problemas dos mais variados tipos.
 
+- 🧑‍💼 Busco trabalhar com Machine Learning com Python e R para solucionar problemas dos mais variados tipos.
 - 📚 Último livro que eu li: Storytelling com dados
 
 ### 🏋️‍ Minhas linguagens de programação:
