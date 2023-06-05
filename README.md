@@ -24,7 +24,7 @@
 - SQL - Básico (2019-)
 - Java - Básico (2020-2021)
 
-### Meus projetos Atuais
+### 🧑‍💻 Meus projetos Atuais
 
  - **FIFA Football Manager**
  
