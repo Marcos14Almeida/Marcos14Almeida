@@ -11,6 +11,7 @@
   </a>
 </p>
 - 🧑‍💼 Busco trabalhar com Machine Learning com Python e R para solucionar problemas dos mais variados tipos.
+
 - 📚 Último livro que eu li: Storytelling com dados
 
 ### 🏋️‍ Minhas linguagens de programação:
