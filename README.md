@@ -37,7 +37,7 @@ Jogo de simulação de futebol com dados reais de mais de 400 times, coletados d
 
 ### 🌐 Meu Website Pessoal
 
-https://github.com/Marcos14Almeida/mrcmarc
+https://marcos14almeida.github.io/mrcmarc/
 
 ### ❇ LinkTree com mais links
 
