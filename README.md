@@ -1,9 +1,9 @@
 ### Oi, eu sou Marcos 👋
 
 
-- 🔭 Atualmente estou fazendo mestrado em Inteligência Artificial aplicado a redes de fibras ópticas na Unicamp.
-- 👨‍🏫 Sou Engenheiro Elétrico formado na Unicamp, sou Técnico em Eletrônica e em 2019 estudei em Lisboa, Portugal, no Instituto Superior Técnico.
-- 💰 Ajudei na criação de uma startup chamado Davai App, uma rede social de música. Fui o desenvolvedor e liderei o desenvovimento da UX/UI dessa rede social de música, para pessoas formarem bandas, amizades, irem em shows juntas e muito mais. Você pode baixa-lo na PlayStore.
+- 🔭 AI'm currently doing a master's degree in artificial intelligence applied to optical fiber networks at Unicamp.
+- 👨‍🏫 I am an Electrical Engineer graduated from Unicamp, an Electronics Technician and in 2019 I studied in Lisbon, Portugal, at Instituto Superior Técnico.
+- 💰 I founded a startup called Davai App, a music social network. I was the developer and lead the UX/UI development of this music social network, for people to form bands, friendships, go to concerts together and much more. You can download it from the PlayStore.
 - >https://play.google.com/store/apps/details?id=com.davai.davai_app
 <p align="center">
   <a href="https://www.davaiapp.com/">
@@ -11,42 +11,42 @@
   </a>
 </p>
 
-- 🧑‍💼 Trabalho com Machine Learning usando Python e R para solucionar problemas dos mais variados tipos.
-- 📚 Último livro que eu li: Storytelling com dados
+- 🧑‍💼 I work with Machine Learning using Python and R to solve problems of the most varied types.
+- 📚 Last Book I Read: Storytelling with Data
 
-### 🏋️‍ Minhas linguagens de programação:
+### 🏋️‍ Programming languages
 
-- Linguagem C - Intermediário (2012-2018)
-- Python - Intermediário (2015-)
-- Dart(Flutter) - Intermediário (2021-)
-- R - Intermediário (2019-)
-- MATLAB - Intermediário (2015-2020)
-- SQL - Básico (2019-)
-- Java - Básico (2020-2021)
+- Linguagem C - Intermediate (2012-2018)
+- Python - Advanced (2015-)
+- Dart(Flutter) - Advanced (2021-)
+- R - Intermediate (2019-)
+- MATLAB - Intermediate (2015-2020)
+- SQL - Basic (2019-)
+- Java - Basic (2020-2021)
 
-### 🧑‍💻 Meus projetos Atuais
+### 🧑‍💻 Current Projects
 
- - **FIFA Football Manager**
+ - **Football Simulator**
  
-Jogo de simulação de futebol com dados reais de mais de 400 times, coletados de 3 sites diferentes e desenvolvido com Flutter. O jogo não esta disponível por conter logos e emblemas de marcas registradas o qual não tenho autoria.
+Football simulation game with real data from more than 400 teams, collected from 3 different websites and updated with real information in real time, developed with Flutter.
 
- - **Mestrado**: Improvement of Quality of Transmission in Fiber Networks with SGD - 
+ - **Masters degree**: ML based anomaly detection and time-series prediction for optical networks 
 
- Uso do algoritmo de gradiente estocástico, para aproximar os parametros simulados de uma rede de fibra óptica(Digital Twin) de uma rede real.
- Faço parte do grupo Intrig: https://intrig.dca.fee.unicamp.br/
+Use of the stochastic gradient algorithm to approximate the simulated parameters of an optical fiber network (Digital Twin) to a real network.
+  I'm part of the Intrig group: https://intrig.dca.fee.unicamp.br/
 
-### 🌐 Meu Website Pessoal
+### 🌐 My personal website
 
 https://marcos14almeida.github.io/mrcmarc/
 
-### ❇ LinkTree com mais links
+### ❇ LinkTree
 
 https://linktr.ee/marcosmaso
 
-### Ficou interessado? Vamos conversar, mande um e-mail para:
+### Interested? Let's talk, send an email to:
 
 📫marcos.10palmeida@gmail.com
 
 ### 🧑‍ Linkedin
 
-https://www.linkedin.com/in/marcos-a-05b048123/
+https://www.linkedin.com/in/marcosmaso
