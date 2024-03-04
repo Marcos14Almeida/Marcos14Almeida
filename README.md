@@ -22,13 +22,12 @@
 - R - Intermediate (2019-)
 - MATLAB - Intermediate (2015-2020)
 - SQL - Basic (2019-)
-- Java - Basic (2020-2021)
 
 ### 🧑‍💻 Current Projects
 
- - **Football Simulator**
+ - **Football Digital Twin**
  
-Football simulation game with real data from more than 400 teams, collected from 3 different websites and updated with real information in real time, developed with Flutter.
+Football digital twin experiemnt with real data from more than 400 teams, collected from 3 different websites and updated with real information in real time and developed in Flutter.
 
  - **Masters degree**: ML based anomaly detection and time-series prediction for optical networks 
 
@@ -46,7 +45,3 @@ https://linktr.ee/marcosmaso
 ### Interested? Let's talk, send an email to:
 
 📫marcos.10palmeida@gmail.com
-
-### 🧑‍ Linkedin
-
-https://www.linkedin.com/in/marcosmaso
