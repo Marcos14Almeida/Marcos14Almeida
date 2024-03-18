@@ -10,12 +10,11 @@
 
 ### 🏋️‍ Programming languages
 
-- Linguagem C - Intermediate (2012-2018)
 - Python - Advanced (2015-)
 - Dart(Flutter) - Advanced (2021-)
 - R - Intermediate (2019-)
-- MATLAB - Intermediate (2015-2020)
-- SQL - Basic (2019-)
+- SQL - Intermediate (2019-)
+- Linguagem C - Intermediate (2012-2018)
 
 ### 🧑‍💻 Current Projects
 
