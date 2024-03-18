@@ -5,13 +5,7 @@
 - 👨‍🏫 I am an Electrical Engineer graduated from Unicamp, an Electronics Technician and in 2019 I studied in Lisbon, Portugal, at Instituto Superior Técnico.
 - 💰 I founded a startup called Davai App, a music social network. I was the developer and lead the UX/UI development of this music social network, for people to form bands, friendships, go to concerts together and much more. You can download it from the PlayStore.
 - >https://play.google.com/store/apps/details?id=com.davai.davai_app
-<p align="center">
-  <a href="https://www.davaiapp.com/">
-  <img src="https://github.com/Marcos14Almeida/Marcos14Almeida/blob/main/davai_logo.png" width="200" title="Davai App">
-  </a>
-</p>
-
-- 🧑‍💼 I work with Machine Learning using Python and R to solve problems of the most varied types.
+- 🧑‍💼 I work with Machine Learning using Python to solve problems of the most varied types.
 - 📚 Last Book I Read: Storytelling with Data
 
 ### 🏋️‍ Programming languages
