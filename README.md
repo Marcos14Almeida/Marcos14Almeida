@@ -1,20 +1,20 @@
 ### Oi, eu sou Marcos 👋
 
 
-- 🔭 AI'm currently doing a master's degree in artificial intelligence applied to optical fiber networks at Unicamp.
-- 👨‍🏫 I am an Electrical Engineer graduated from Unicamp, an Electronics Technician and in 2019 I studied in Lisbon, Portugal, at Instituto Superior Técnico.
-- 💰 I founded a startup called Davai App, a music social network. I was the developer and lead the UX/UI development of this music social network, for people to form bands, friendships, go to concerts together and much more. You can download it from the PlayStore.
-- >https://play.google.com/store/apps/details?id=com.davai.davai_app
-- 🧑‍💼 I work with Machine Learning using Python to solve problems of the most varied types.
+- 🔭 AI'm currently doing a master's degree in artificial intelligence at Unicamp.
+- 🧑‍💼 I work with Machine Learning using Python to solve problems.
+- 👨‍🏫 I am an Electrical Engineer graduated from Unicamp, an Electronics Technician.
+- 💰 I founded a startup called Davai App, a music social network. I was the developer and lead the UX/UI development of this music social network, for people to form bands, friendships, go to concerts together and much more.
 - 📚 Last Book I Read: Storytelling with Data
 
 ### 🏋️‍ Programming languages
 
 - Python - Advanced (2015-)
 - Dart(Flutter) - Advanced (2021-)
-- R - Intermediate (2019-)
 - SQL - Intermediate (2019-)
-- Linguagem C - Intermediate (2012-2018)
+- Angular - Intermediate (2023)
+- R - Intermediate (2019-)
+- C - Intermediate (2012-2018)
 
 ### 🧑‍💻 Current Projects
 
