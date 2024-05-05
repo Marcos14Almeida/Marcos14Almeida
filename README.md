@@ -31,10 +31,6 @@ Use of the stochastic gradient algorithm to approximate the simulated parameters
 
 https://marcos14almeida.github.io/mrcmarc/
 
-### ❇ LinkTree
-
-https://linktr.ee/marcosmaso
-
 ### Interested? Let's talk, send an email to:
 
 📫marcos.10palmeida@gmail.com
