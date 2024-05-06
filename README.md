@@ -12,12 +12,18 @@
 - Python - Advanced (2015-)
 - Dart(Flutter) - Advanced (2021-)
 - SQL - Intermediate (2019-)
-- Angular - Intermediate (2023)
+- Angular - Intermediate (2023-)
 - R - Intermediate (2019-)
 - C - Intermediate (2012-2018)
 
 ### 🧑‍💻 Current Projects
 
+ - **Davai Social Music Network**
+
+Music social network developed in Flutter for mobile devices to connect people through music.
+
+[Instagram](https://www.instagram.com/davai_app/)
+   
  - **Football Digital Twin**
  
 Football digital twin experiemnt with real data from more than 400 teams, collected from 3 different websites and updated with real information in real time and developed in Flutter.
