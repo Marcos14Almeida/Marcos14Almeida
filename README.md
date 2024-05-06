@@ -18,11 +18,11 @@
 
 ### 🧑‍💻 Current Projects
 
- - **Davai Social Music Network**
+ - **Davai Social Music Network** [Instagram](https://www.instagram.com/davai_app/)
 
 Music social network developed in Flutter for mobile devices to connect people through music.
 
-[Instagram](https://www.instagram.com/davai_app/)
+
    
  - **Football Digital Twin**
  
