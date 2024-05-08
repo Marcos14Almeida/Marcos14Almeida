@@ -4,7 +4,7 @@
 - 🔭 AI'm currently doing a master's degree in artificial intelligence at Unicamp.
 - 🧑‍💼 I work as a Trainee in a Startup with Machine Learning using Python and SQL to solve problems.
 - 👨‍🏫 I am an Electrical Engineer graduated from Unicamp, and Electronics Technician.
-- 💰 I founded a startup called Davai, a music social network app. I was the developer and lead the UX/UI development of this music social network, for people to form bands, friendships, go to concerts together and much more.
+- 💰 I founded a startup called Davai, a music social network app. I was the developer and led the UX/UI development of this music social network, for people to form bands, friendships, go to concerts together and much more.
 - 📚 Last Book I Read: Storytelling with Data
 
 ### 🏋️‍ Programming languages
