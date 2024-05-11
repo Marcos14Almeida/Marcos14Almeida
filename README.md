@@ -15,6 +15,7 @@
 - Angular - Intermediate (2023-)
 - R - Intermediate (2019-)
 - C - Intermediate (2012-2018)
+- C# - Basic (2024-)
 
 ### 🧑‍💻 Current Projects
 
