@@ -1,11 +1,6 @@
 ### Oi, eu sou Marcos 👋
 
-
-- 🔭 AI'm currently doing a master's degree in ML-based unsupervised anomaly detection in time-series at Unicamp.
-- 🧑‍💼 I work as a Data Scientist.
-- 👨‍🏫 I am an Electrical Engineer graduated from Unicamp with a MBA in Big Data and Business Analytics, and Electronics Technician.
-- 💰 I founded a startup called Davai, a music social network app. I was the developer and led the UX/UI development of this music social network for people to form bands, friendships, go to concerts together and much more.
-- 📚 Last Book I Read: Storytelling with Data
+I'm a data scientist, with interest for Machine-Learning, AI, App development, UI/UX. 
 
 ### 🏋️‍ Programming languages
 
@@ -23,11 +18,6 @@
  - **Davai Social Music Network** [Instagram](https://www.instagram.com/davai_app/)
 
 Music social network developed in Flutter for mobile devices to connect people through music.
-
- - **Masters degree**: ML based anomaly detection and time-series prediction for optical networks 
-
-Use of the stochastic gradient algorithm to approximate the simulated parameters of an optical fiber network (Digital Twin) to a real network.
-  I'm part of the Intrig group: https://intrig.dca.fee.unicamp.br/
 
 ### 🌐 My personal website
 
