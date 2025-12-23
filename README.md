@@ -21,6 +21,8 @@ Music social network developed in Flutter for mobile devices to connect people t
 
 ### 🌐 My personal website
 
+https://marcosmaso.com.br/
+
 https://marcos14almeida.github.io/mrcmarc/
 
 ### Interested? Let's talk, send an email to:
