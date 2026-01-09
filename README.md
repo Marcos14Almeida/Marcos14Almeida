@@ -7,11 +7,9 @@ I'm a data scientist, with interest for Machine-Learning, AI, App development, U
 - Python - Advanced (2015-)
 - Dart(Flutter) - Advanced (2021-)
 - SQL - Advanced (2019-)
-- Angular - Basic (2023-)
-- Javascript - Intermediate (2023-)
 - R - Intermediate (2019-)
 - C - Intermediate (2012-2018)
-- C# - Basic (2024-)
+- C++ - Basic (2014-)
 
 ### 🧑‍💻 Current Projects
 
@@ -21,9 +19,9 @@ Music social network developed in Flutter for mobile devices to connect people t
 
 ### 🌐 My personal website
 
-https://marcosmaso.com.br/
+[https://marcos14almeida.github.io/mrcmarc/](https://mrcmarc-website.onrender.com/)
 
-https://marcos14almeida.github.io/mrcmarc/
+https://marcosmaso.com.br/
 
 ### Interested? Let's talk, send an email to:
 
