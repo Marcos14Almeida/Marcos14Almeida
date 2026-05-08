@@ -18,8 +18,6 @@ Music social network developed in Flutter for mobile devices to connect people t
 
 [https://marcosmaso.com.br](https://marcosmaso.com.br/)
 
-https://marcosmaso.com.br/
-
 ### Interested? Let's talk, send an email to:
 
 📫marcos.10palmeida@gmail.com
